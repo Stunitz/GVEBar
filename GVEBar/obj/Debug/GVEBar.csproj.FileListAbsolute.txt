@@ -1,0 +1,90 @@
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\bin\Debug\GVEBar.exe.config
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\bin\Debug\GVEBar.exe
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\bin\Debug\GVEBar.pdb
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\GVEBar.csprojResolveAssemblyReference.cache
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\View\frmCadastrarProdutos.baml
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\View\frmCadastrarProdutos.g.cs
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\App.g.cs
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\GVEBar_MarkupCompile.cache
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\GVEBar.g.resources
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\GVEBar.Properties.Resources.resources
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\GVEBar.csproj.GenerateResource.Cache
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\GVEBar.csproj.CoreCompileInputs.cache
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\GVEBar.exe
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\GVEBar.pdb
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\View\frmPrincipal.g.cs
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\GVEBar_MarkupCompile.lref
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\View\frmPrincipal.baml
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\View\frmCadastrarFuncionario.g.cs
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\View\frmCadastrarFuncionario.baml
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\View\frmCadastrarVendas.g.cs
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\View\frmCadastrarVendas.baml
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\bin\Debug\EntityFramework.dll
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\bin\Debug\EntityFramework.xml
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jonattan\Desktop\C# Projeto Final\GVEBar\GVEBar\obj\Debug\GVEBar.Migrations.PrimeiraMigração.resources
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.csprojResolveAssemblyReference.cache
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmCadastrarProdutos.baml
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmCadastrarFuncionario.g.cs
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmCadastrarProdutos.g.cs
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmPrincipal.g.cs
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\App.g.cs
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar_MarkupCompile.cache
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar_MarkupCompile.lref
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.exe
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.pdb
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\bin\Debug\GVEBar.exe.config
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\bin\Debug\GVEBar.exe
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\bin\Debug\GVEBar.pdb
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmCadastrarFuncionario.baml
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmPrincipal.baml
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.g.resources
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.Properties.Resources.resources
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.csproj.GenerateResource.Cache
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.csproj.CoreCompileInputs.cache
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\Interop.SpeechLib.dll
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.csproj.ResolveComReference.cache
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\bin\Debug\EntityFramework.dll
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\bin\Debug\EntityFramework.xml
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmRegistrarVendas.g.cs
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmRegistrarVendas.baml
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmLogin.g.cs
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmLogin.baml
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmControleEstoque.g.cs
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmControleEstoque.baml
+C:\Users\rafas\Desktop\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.Migrations.GVEBarMigration.resources
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\bin\Debug\GVEBar.exe.config
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\bin\Debug\GVEBar.exe
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\bin\Debug\GVEBar.pdb
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\bin\Debug\EntityFramework.dll
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\bin\Debug\EntityFramework.xml
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.csprojResolveAssemblyReference.cache
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\Interop.SpeechLib.dll
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.csproj.ResolveComReference.cache
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmCadastrarProdutos.baml
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmControleEstoque.g.cs
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmLogin.g.cs
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmCadastrarFuncionario.g.cs
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmCadastrarProdutos.g.cs
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmPrincipal.g.cs
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmRegistrarVendas.g.cs
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\App.g.cs
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar_MarkupCompile.cache
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar_MarkupCompile.lref
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmControleEstoque.baml
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmLogin.baml
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmCadastrarFuncionario.baml
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmPrincipal.baml
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\View\frmRegistrarVendas.baml
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.g.resources
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.Migrations.GVEBarMigration.resources
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.Properties.Resources.resources
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.csproj.GenerateResource.Cache
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.csproj.CoreCompileInputs.cache
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.exe
+C:\Users\rafas\Documents\Faculdade\Matérias\Desenvolvimento de Sistemas com C#\Projetos\GVEBar\GVEBar\GVEBar\obj\Debug\GVEBar.pdb

@@ -1,0 +1,58 @@
+﻿<Window x:Class="GVEBar.View.frmPrincipal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GVEBar.View"
+        mc:Ignorable="d"
+        Title="GVEBar" Height="500" Width="500" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen" MinHeight="500" MinWidth="500" Closing="Window_Closing">
+    <Grid x:Name="grdForm">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="43*"/>
+            <RowDefinition Height="37*"/>
+            <RowDefinition Height="389*"/>
+            <RowDefinition Height="37*"/>
+        </Grid.RowDefinitions>
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="{Binding ElementName=grdForm, Path=ActualWidth}">
+
+            <MenuItem Header="_Vendas" Height="40">
+                <MenuItem x:Name="menuEfetuarVendas" Header="Registar Vendas" HorizontalAlignment="Left" Width="170" Click="menuEfetuarVendas_Click" />
+            </MenuItem>
+            <MenuItem Header="_Produtos" Height="40">
+                <MenuItem x:Name="menuCadastrarProduto" Header="Cadastrar Produto" HorizontalAlignment="Left"  Click="menuCadastrarProduto_Click"/>
+                <MenuItem x:Name="menuControleEstoque" Header="Controle de Estoque" HorizontalAlignment="Left" Click="menuControleEstoque_Click"/>
+            </MenuItem>
+            <MenuItem Header="_Funcionário" Height="40">
+                <MenuItem x:Name="menuCadastrarFuncionario" Header="Cadastrar Funcionário" HorizontalAlignment="Left" Width="200" Click="menuCadastrarFuncionario_Click"/>
+            </MenuItem>
+
+            <MenuItem Header="_Opções" Height="40">
+                <MenuItem x:Name="menuDeslogar" Header="Deslogar" HorizontalAlignment="Left" Width="139.2" Click="menuDeslogar_Click"/>
+                <MenuItem x:Name="menuSair" Header="Sair" HorizontalAlignment="Left" Width="139.2" Click="menuSair_Click"/>
+            </MenuItem>
+        </Menu>
+        <Label x:Name="lblRelatorio" Content="Relatório do Estoque" 
+               Grid.Row="1" Grid.Column="2"
+               VerticalContentAlignment="Center"
+               HorizontalContentAlignment="Center" FontSize="20" FontWeight="Bold" />
+        <DataGrid x:Name="dtgEstoque" Grid.Column="1" Grid.Row="2"  Grid.ColumnSpan="2" Margin="0,10" AutoGenerateColumns="False" IsReadOnly="True" BorderThickness="1,1,1,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="colCodBarra" Header="Código de Barra" Width="22*"
+                                    Binding="{Binding Codigo}"/>
+                <DataGridTextColumn x:Name="colProduto" Header="Produto" Width="15*"
+                                    Binding="{Binding Produto}"/>
+                <DataGridTextColumn x:Name="colValorCompra" Header="Valor de Compra" Width="25*"
+                                    Binding="{Binding Compra}"/>
+                <DataGridTextColumn x:Name="colValorVenda" Header="Valor de Venda" Width="25*"
+                                    Binding="{Binding Venda}"/>
+                <DataGridTextColumn x:Name="colQuantidade" Header="Quantidade" Width="20*"
+                                    Binding="{Binding Quantidade}"/>
+                <DataGridTextColumn x:Name="colValidade" Header="Validade" Width="20*"
+                                    Binding="{Binding Validade}"/>
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <Button x:Name="btnAtualizar" Content="Atualizar Relatório" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Width="150" Click="btnAtualizar_Click"/>
+
+    </Grid>
+</Window>
